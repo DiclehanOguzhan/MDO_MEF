@@ -1,2 +1,2 @@
 # Multi-Exposure Image Fusion based on Linear Embeddings and Watershed Masking
-Official Implementation of MDO-MEF
+This is the implementation of Multi-Exposure Image Fusion based on Linear Embeddings and Watershed Masking, Oguzhan Ulucan, Diclehan Karakaya, Mehmet Turkan, Signal Processing,  vol. 178, pp. 107791, Jan. 2021.
