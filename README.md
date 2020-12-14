@@ -57,8 +57,3 @@ If you find this work useful in your research, please consider citing:
 
 * O. Ulucan, D. Karakaya, and M. Turkan, "Multi-Exposure Image Fusion based on Linear Embeddings and Watershed Masking", *Signal Processing*, vol. 178, pp. 107791, Jan. 2021.
 
-## Project Page
-
-:warning: Coming soon
-
-
