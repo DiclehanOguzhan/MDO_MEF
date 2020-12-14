@@ -1,8 +1,8 @@
 # Multi-Exposure Image Fusion based on Linear Embeddings and Watershed Masking
-This is the implementation for Multi-Exposure Image Fusion based on Linear Embeddings and Watershed Masking, Oguzhan Ulucan, Diclehan Karakaya, Mehmet Turkan, Signal Processing,  vol. 178, pp. 107791, Jan. 2021.
+This is the implementation for [Multi-Exposure Image Fusion based on Linear Embeddings and Watershed Masking](https://www.sciencedirect.com/science/article/pii/S0165168420303352), Oguzhan Ulucan, Diclehan Karakaya, [Mehmet Turkan](http://homes.ieu.edu.tr/mehmetturkan/), Signal Processing,  vol. 178, pp. 107791, Jan. 2021.
 
  
-[link:](https://www.sciencedirect.com/science/article/pii/S0165168420303352)
+
 
 # Abstract
 
