@@ -30,7 +30,7 @@ Required Input : Source static image sequence in RGB.
      
      Select the image stacks folder to be fused.
      Note that, the images in the folder should be in order 
-     from Under exposed to Over-exposed as in the "Tower" file.
+     from Under exposed to Over-exposed as in the "Tower" folder.
 
 ```
 
