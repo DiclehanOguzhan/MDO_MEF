@@ -40,6 +40,16 @@ In order to fuse the input sequence, i.e. "Tower", run demo.m:
 run demo.m
 ```
 
+## Example Results
+
+Here some results of MDO-MEF:
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0165168420303352-gr11.jpg">
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0165168420303352-gr9.jpg">
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0165168420303352-gr15.jpg">
+
 ## Citing this work
 
 If you find this work useful in your research, please consider citing:
