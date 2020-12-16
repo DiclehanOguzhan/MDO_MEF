@@ -40,7 +40,7 @@ In order to fuse the input sequence, i.e. "Tower", run demo.m:
 run demo.m
 ```
 
-## Example Results
+## Results
 
 Here some results of MDO-MEF:
 
