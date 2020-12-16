@@ -42,7 +42,7 @@ run demo.m
 
 ## Results
 
-Here some results of MDO-MEF:
+Here are some results of MDO-MEF:
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0165168420303352-gr11.jpg">
 
